@@ -1,0 +1,14 @@
+blue        #2f80ed
+blue_light  #73afff
+blue_dark   #0055ba
+yellow        #F2C94C
+yellow_light  #fffc7d
+yellow_dark   #bc9914
+red        #EB5757
+red_light  #ff8984
+red_dark   #b3202e
+green        #27AE60
+green_light  #64e18e
+green_dark   #007d34
+select_ring  #FF9800
+blue_gray   #d0e0f2

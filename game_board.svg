@@ -59,11 +59,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="506.28369"
-     inkscape:cy="313.29415"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="271.09046"
+     inkscape:cy="413.55618"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="space36"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -105,14 +105,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="board"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect36"
@@ -123,7 +124,7 @@
        inkscape:label="background"
        sodipodi:insensitive="true" />
     <circle
-       style="display:inline;opacity:0.998;fill:none;stroke:#008080;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.998;fill:none;stroke:#d0e0f2;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path912-2"
        cx="400"
        cy="400"
@@ -135,7 +136,7 @@
        id="layer4"
        inkscape:label="space decorations">
       <path
-         style="fill:none;stroke:#ffff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#f2c94c;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 468.386,329.94319 582.48129,215.8479 594.67075,151.901"
          id="use3600"
          inkscape:transform-center-x="-158.11426"
@@ -144,7 +145,7 @@
          inkscape:tile-y0="438.38601"
          inkscape:label="yellow finish bg" />
       <path
-         style="fill:none;stroke:#0000ff;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#2f80ed;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 329.94318,329.94321 215.84789,215.84792 151.90099,203.65846"
          id="use3598"
          inkscape:transform-center-x="-158.11426"
@@ -153,7 +154,7 @@
          inkscape:tile-y0="438.38601"
          inkscape:label="blue  finish bg" />
       <path
-         style="fill:none;stroke:#00ff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#27ae60;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 329.9432,468.38603 -114.09529,114.09529 -12.18946,63.9469"
          id="use3596"
          inkscape:transform-center-x="-158.11426"
@@ -162,7 +163,7 @@
          inkscape:tile-y0="438.38601"
          inkscape:label="green finish bg" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#eb5757;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 468.38602,468.38601 114.09529,114.09529 63.9469,12.18946"
          id="use3594"
          inkscape:transform-center-x="-158.11426"
@@ -171,7 +172,7 @@
          inkscape:tile-y0="438.38601"
          inkscape:label="red finish bg" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#eb5757;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 604.77396,718.23995 718.86925,604.14466"
          id="use3317"
          inkscape:transform-center-x="261.50695"
@@ -180,7 +181,7 @@
          inkscape:tile-y0="574.74691"
          inkscape:label="red home bg" />
       <path
-         style="fill:none;stroke:#ffff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#f2c94c;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 718.267,194.62379 604.17171,80.5285"
          id="use3315"
          inkscape:transform-center-x="261.50695"
@@ -189,7 +190,7 @@
          inkscape:tile-y0="574.74691"
          inkscape:label="yellow home bg" />
       <path
-         style="fill:none;stroke:#0000ff;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#2f80ed;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 194.65084,81.13075 80.55555,195.22604"
          id="use3313"
          inkscape:transform-center-x="261.50695"
@@ -198,7 +199,7 @@
          inkscape:tile-y0="574.74691"
          inkscape:label="blue home bg" />
       <path
-         style="fill:none;stroke:#00ff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#27ae60;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 81.1578,604.74691 195.25309,718.8422"
          id="use3311"
          inkscape:transform-center-x="261.50695"
@@ -207,7 +208,7 @@
          inkscape:tile-y0="574.74691"
          inkscape:label="green home bg" />
       <circle
-         style="opacity:0.998;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.998;fill:#27ae60;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="use3752"
          cx="154.99525"
          cy="595.81342"
@@ -218,7 +219,7 @@
          inkscape:tile-x0="124.99525"
          inkscape:tile-y0="565.81342" />
       <circle
-         style="opacity:0.998;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.998;fill:#2f80ed;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="use3754"
          cx="154.38486"
          cy="-203.56668"
@@ -230,7 +231,7 @@
          inkscape:tile-y0="565.81342"
          transform="rotate(90)" />
       <circle
-         style="opacity:0.998;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.998;fill:#f2c94c;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="use3756"
          cx="-644.99524"
          cy="-202.95628"
@@ -242,7 +243,7 @@
          inkscape:tile-y0="565.81342"
          transform="scale(-1)" />
       <circle
-         style="opacity:0.998;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.998;fill:#eb5757;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="use3758"
          cx="-644.38483"
          cy="596.42383"
@@ -471,11 +472,13 @@
     <g
        id="g2226"
        inkscape:label="guides"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path912"
          style="opacity:0.998;fill:none;stroke:#b3b3b3;stroke-width:2.51224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 714.0296,400 A 314.0296,314.0296 0 0 1 400,714.0296 314.0296,314.0296 0 0 1 85.970398,400 314.0296,314.0296 0 0 1 400,85.970398 314.0296,314.0296 0 0 1 714.0296,400 Z" />
+         d="M 714.0296,400 C 714.0296,573.43376 573.43376,714.0296 400,714.0296 226.56624,714.0296 85.970399,573.43376 85.970398,400 c 0,-51.79941 12.541652,-100.66955 34.754032,-143.73951 C 172.88309,155.12446 278.36565,85.970397 400,85.970398 573.43376,85.970399 714.0296,226.56624 714.0296,400 Z"
+         sodipodi:nodetypes="ssssss" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 400,85.970398 V 714.0296"
@@ -499,23 +502,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2912"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2914"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space1"
@@ -531,23 +537,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2696"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2698"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space2"
@@ -556,31 +565,33 @@
        inkscape:transform-center-y="0.71428572"
        inkscape:tile-x0="63.470397"
        inkscape:tile-y0="377.49999"
-       transform="rotate(25.714,400.25611,399.28571)"
-       sodipodi:insensitive="true">
+       transform="rotate(25.714,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2702"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2704"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2706"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space3"
@@ -596,23 +607,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2712"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2714"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space4"
@@ -623,28 +637,31 @@
        inkscape:tile-y0="377.49999"
        transform="rotate(51.428,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2718"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2720"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2722"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space5"
@@ -660,23 +677,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2728"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2730"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space6"
@@ -692,23 +712,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2736"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2738"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space7"
@@ -719,28 +742,31 @@
        inkscape:tile-y0="377.49999"
        transform="rotate(89.999,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2742"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2744"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2746"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space8"
@@ -756,23 +782,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2752"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2754"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space9"
@@ -788,23 +817,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:inline;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2760"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2762"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space10"
@@ -815,28 +847,31 @@
        inkscape:tile-y0="377.49999"
        transform="rotate(128.57,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2766"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2768"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2770"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space11"
@@ -852,23 +887,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2776"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:inline;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ffc107;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2778"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space12"
@@ -884,23 +922,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2784"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2786"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space13"
@@ -911,28 +952,31 @@
        inkscape:tile-y0="377.49999"
        transform="rotate(167.141,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2790"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2792"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2794"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space14"
@@ -948,23 +992,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2800"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2802"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space15"
@@ -980,23 +1027,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2808"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2810"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space16"
@@ -1012,23 +1062,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2816"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2818"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space17"
@@ -1039,28 +1092,31 @@
        inkscape:tile-y0="377.49999"
        transform="rotate(-141.431,400.25611,399.28571)">
       <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2822"
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2824"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2826"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space18"
@@ -1076,23 +1132,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2832"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2834"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space19"
@@ -1108,23 +1167,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2840"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2842"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space20"
@@ -1140,23 +1202,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2848"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2850"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space21"
@@ -1172,23 +1237,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2856"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2858"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space22"
@@ -1204,23 +1272,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2864"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2866"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space23"
@@ -1236,23 +1307,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2872"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2874"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space24"
@@ -1268,23 +1342,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2880"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2882"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space25"
@@ -1300,23 +1377,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2888"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2890"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space26"
@@ -1332,23 +1412,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2896"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2898"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="space27"
@@ -1364,23 +1447,26 @@
          cx="85.970398"
          cy="400"
          r="12.631578"
-         inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+         inkscape:label="unoccupied_ring"
+         class="unoccupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2904"
          cx="85.970398"
          cy="400"
          rx="14.210538"
          ry="14.210559"
-         inkscape:label="occupied_ring" class="occupied_ring" />
+         inkscape:label="occupied_ring"
+         class="occupied_ring" />
       <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse2906"
          cx="85.970398"
          cy="400"
          rx="19.133862"
          ry="19.13386"
-         inkscape:label="suggestion_ring" class="suggestion_ring" />
+         inkscape:label="suggestion_ring"
+         class="suggestion_ring" />
     </g>
     <g
        id="use3157"
@@ -1404,24 +1490,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring"
+           inkscape:label="unoccupied_ring"
            class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3167"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3169"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space46"
@@ -1437,23 +1525,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3175"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3177"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space45"
@@ -1469,23 +1560,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3183"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3185"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space44"
@@ -1501,23 +1595,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3191"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3193"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -1542,23 +1639,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3201"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3203"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space50"
@@ -1574,23 +1674,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3209"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3211"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space49"
@@ -1606,23 +1709,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3217"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:inline;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ffc107;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3219"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="g3768"
@@ -1638,23 +1744,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3225"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3227"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -1679,23 +1788,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3235"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3237"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space54"
@@ -1711,23 +1823,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3243"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3245"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space53"
@@ -1743,23 +1858,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3251"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3253"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space52"
@@ -1775,23 +1893,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3259"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3261"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -1816,23 +1937,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3269"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3271"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space58"
@@ -1848,23 +1972,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3277"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3279"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space57"
@@ -1880,23 +2007,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3285"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3287"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space56"
@@ -1912,23 +2042,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3293"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3295"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -1953,23 +2086,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3531"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3533"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space42"
@@ -1985,23 +2121,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3539"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3541"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space41"
@@ -2017,23 +2156,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3547"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3549"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space40"
@@ -2049,23 +2191,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3555"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3557"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -2090,23 +2235,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3497"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3499"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space30"
@@ -2122,23 +2270,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3505"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3507"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space29"
@@ -2154,23 +2305,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3513"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3515"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space28"
@@ -2186,23 +2340,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3521"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3523"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -2227,23 +2384,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3463"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3465"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space34"
@@ -2259,23 +2419,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3471"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3473"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space33"
@@ -2291,23 +2454,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3479"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3481"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space32"
@@ -2323,23 +2489,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3487"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3489"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
     <g
@@ -2364,23 +2533,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3429"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3431"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space38"
@@ -2396,23 +2568,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3437"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3439"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space37"
@@ -2428,23 +2603,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3445"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3447"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
       <g
          id="space36"
@@ -2460,23 +2638,26 @@
            cx="85.970398"
            cy="400"
            r="12.631578"
-           inkscape:label="unoccupied_ring" class="unoccupied_ring" />
+           inkscape:label="unoccupied_ring"
+           class="unoccupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#fffc7d;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3453"
            cx="85.970398"
            cy="400"
            rx="14.210538"
            ry="14.210559"
-           inkscape:label="occupied_ring" class="occupied_ring" />
+           inkscape:label="occupied_ring"
+           class="occupied_ring" />
         <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:none;opacity:0.998;fill:none;stroke:#ff9800;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="ellipse3455"
            cx="85.970398"
            cy="400"
            rx="19.133862"
            ry="19.13386"
-           inkscape:label="suggestion_ring" class="suggestion_ring" />
+           inkscape:label="suggestion_ring"
+           class="suggestion_ring" />
       </g>
     </g>
   </g>
@@ -2484,7 +2665,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="popper"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g925"
        inkscape:label="popper"

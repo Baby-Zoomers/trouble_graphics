@@ -1,2719 +1,379 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800px"
-   height="800px"
-   viewBox="0 0 800 800"
-   version="1.1"
-   id="SVGRoot"
-   sodipodi:docname="game_board.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <defs
-     id="defs23">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="24.57802 : 422.612 : 1"
-       inkscape:vp_y="0 : 661.58028 : 0"
-       inkscape:vp_z="807.10412 : 422.612 : 1"
-       inkscape:persp3d-origin="415.84106 : 334.4013 : 1"
-       id="perspective866" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="42.027164"
-       height="42.027163"
-       patternTransform="translate(66.747847,378.88501)"
-       id="pattern945">
-      <ellipse
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path943"
-         cx="21.013582"
-         cy="21.01358"
-         rx="13.513582"
-         ry="13.513581" />
-    </pattern>
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="42.027164"
-       height="42.027163"
-       patternTransform="translate(66.747847,378.88501)"
-       id="pattern945-6">
-      <ellipse
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path943-7"
-         cx="21.013582"
-         cy="21.01358"
-         rx="13.513582"
-         ry="13.513581" />
-    </pattern>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="506.28369"
-     inkscape:cy="313.29415"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:lockguides="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true">
-    <sodipodi:guide
-       position="85.970398,400"
-       orientation="0,-1"
-       id="guide2228"
-       inkscape:locked="true" />
-    <sodipodi:guide
-       position="400,85.9704"
-       orientation="1,0"
-       id="guide2232"
-       inkscape:locked="true" />
-    <sodipodi:guide
-       position="400,400"
-       orientation="0.70710678,-0.70710678"
-       id="guide2234"
-       inkscape:locked="true" />
-    <sodipodi:guide
-       position="400,400"
-       orientation="-0.70710678,-0.70710678"
-       id="guide2236"
-       inkscape:locked="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="board"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect36"
-       width="700"
-       height="700"
-       x="50"
-       y="50"
-       inkscape:label="background"
-       sodipodi:insensitive="true" />
-    <circle
-       style="display:inline;opacity:0.998;fill:none;stroke:#008080;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path912-2"
-       cx="400"
-       cy="400"
-       r="314.0296"
-       inkscape:label="path912-2"
-       sodipodi:insensitive="true" />
-    <g
-       inkscape:groupmode="layer"
-       id="layer4"
-       inkscape:label="space decorations">
-      <path
-         style="fill:none;stroke:#ffff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 468.386,329.94319 582.48129,215.8479 594.67075,151.901"
-         id="use3600"
-         inkscape:transform-center-x="-158.11426"
-         inkscape:transform-center-y="132.45254"
-         inkscape:tile-x0="438.38602"
-         inkscape:tile-y0="438.38601"
-         inkscape:label="yellow finish bg" />
-      <path
-         style="fill:none;stroke:#0000ff;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 329.94318,329.94321 215.84789,215.84792 151.90099,203.65846"
-         id="use3598"
-         inkscape:transform-center-x="-158.11426"
-         inkscape:transform-center-y="132.45254"
-         inkscape:tile-x0="438.38602"
-         inkscape:tile-y0="438.38601"
-         inkscape:label="blue  finish bg" />
-      <path
-         style="fill:none;stroke:#00ff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 329.9432,468.38603 -114.09529,114.09529 -12.18946,63.9469"
-         id="use3596"
-         inkscape:transform-center-x="-158.11426"
-         inkscape:transform-center-y="132.45254"
-         inkscape:tile-x0="438.38602"
-         inkscape:tile-y0="438.38601"
-         inkscape:label="green finish bg" />
-      <path
-         style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 468.38602,468.38601 114.09529,114.09529 63.9469,12.18946"
-         id="use3594"
-         inkscape:transform-center-x="-158.11426"
-         inkscape:transform-center-y="132.45254"
-         inkscape:tile-x0="438.38602"
-         inkscape:tile-y0="438.38601"
-         inkscape:label="red finish bg" />
-      <path
-         style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 604.77396,718.23995 718.86925,604.14466"
-         id="use3317"
-         inkscape:transform-center-x="261.50695"
-         inkscape:transform-center-y="262.1092"
-         inkscape:tile-x0="51.1578"
-         inkscape:tile-y0="574.74691"
-         inkscape:label="red home bg" />
-      <path
-         style="fill:none;stroke:#ffff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 718.267,194.62379 604.17171,80.5285"
-         id="use3315"
-         inkscape:transform-center-x="261.50695"
-         inkscape:transform-center-y="262.1092"
-         inkscape:tile-x0="51.1578"
-         inkscape:tile-y0="574.74691"
-         inkscape:label="yellow home bg" />
-      <path
-         style="fill:none;stroke:#0000ff;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 194.65084,81.13075 80.55555,195.22604"
-         id="use3313"
-         inkscape:transform-center-x="261.50695"
-         inkscape:transform-center-y="262.1092"
-         inkscape:tile-x0="51.1578"
-         inkscape:tile-y0="574.74691"
-         inkscape:label="blue home bg" />
-      <path
-         style="fill:none;stroke:#00ff00;stroke-width:60;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 81.1578,604.74691 195.25309,718.8422"
-         id="use3311"
-         inkscape:transform-center-x="261.50695"
-         inkscape:transform-center-y="262.1092"
-         inkscape:tile-x0="51.1578"
-         inkscape:tile-y0="574.74691"
-         inkscape:label="green home bg" />
-      <circle
-         style="opacity:0.998;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="use3752"
-         cx="154.99525"
-         cy="595.81342"
-         r="30"
-         inkscape:label="green start bg"
-         inkscape:transform-center-x="245"
-         inkscape:transform-center-y="196.42857"
-         inkscape:tile-x0="124.99525"
-         inkscape:tile-y0="565.81342" />
-      <circle
-         style="opacity:0.998;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="use3754"
-         cx="154.38486"
-         cy="-203.56668"
-         r="30"
-         inkscape:label="blue start bg"
-         inkscape:transform-center-x="245"
-         inkscape:transform-center-y="196.42857"
-         inkscape:tile-x0="124.99525"
-         inkscape:tile-y0="565.81342"
-         transform="rotate(90)" />
-      <circle
-         style="opacity:0.998;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="use3756"
-         cx="-644.99524"
-         cy="-202.95628"
-         r="30"
-         inkscape:label="yellow start bg"
-         inkscape:transform-center-x="245"
-         inkscape:transform-center-y="196.42857"
-         inkscape:tile-x0="124.99525"
-         inkscape:tile-y0="565.81342"
-         transform="scale(-1)" />
-      <circle
-         style="opacity:0.998;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="use3758"
-         cx="-644.38483"
-         cy="596.42383"
-         r="30"
-         inkscape:label="red start bg"
-         inkscape:transform-center-x="245"
-         inkscape:transform-center-y="196.42857"
-         inkscape:tile-x0="124.99525"
-         inkscape:tile-y0="565.81342"
-         transform="rotate(-90)" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer5"
-       inkscape:label="text">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="537.79474"
-         y="424.8432"
-         id="use3626"
-         inkscape:label="green home txt"
-         transform="rotate(45)"
-         inkscape:transform-center-x="295.9747"
-         inkscape:transform-center-y="295.46962"
-         inkscape:tile-x0="81.157798"
-         inkscape:tile-y0="672.38022"><tspan
-           sodipodi:role="line"
-           id="tspan3634"
-           x="537.79474"
-           y="424.8432"
-           style="font-size:18.6667px">Home</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-26.732204"
-         y="-141.04245"
-         id="use3628"
-         inkscape:label="blue home txt"
-         transform="rotate(135)"
-         inkscape:transform-center-x="295.9747"
-         inkscape:transform-center-y="295.46962"
-         inkscape:tile-x0="81.157798"
-         inkscape:tile-y0="672.38022"><tspan
-           sodipodi:role="line"
-           id="tspan3638"
-           x="-26.732204"
-           y="-141.04245"
-           style="font-size:18.6667px">Home</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-592.61786"
-         y="423.4845"
-         id="use3630"
-         inkscape:label="yellow home txt"
-         transform="rotate(-135)"
-         inkscape:transform-center-x="295.9747"
-         inkscape:transform-center-y="295.46962"
-         inkscape:tile-x0="81.157798"
-         inkscape:tile-y0="672.38022"><tspan
-           sodipodi:role="line"
-           id="tspan3642"
-           x="-592.61786"
-           y="423.4845"
-           style="font-size:18.6667px">Home</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-28.09091"
-         y="989.37012"
-         id="use3632"
-         inkscape:label="red home txt"
-         transform="rotate(-45)"
-         inkscape:transform-center-x="295.9747"
-         inkscape:transform-center-y="295.46962"
-         inkscape:tile-x0="81.157798"
-         inkscape:tile-y0="672.38022"><tspan
-           sodipodi:role="line"
-           id="tspan3646"
-           x="-28.09091"
-           y="989.37012"
-           style="font-size:18.6667px">Home</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="358.04095"
-         y="52.590488"
-         id="use3684"
-         inkscape:label="blue finish txt"
-         transform="rotate(45)"
-         inkscape:transform-center-x="157.95168"
-         inkscape:transform-center-y="-95.172876"
-         inkscape:tile-x0="217.27509"
-         inkscape:tile-y0="282.05268"><tspan
-           sodipodi:role="line"
-           id="tspan3692"
-           x="358.04095"
-           y="52.590488"
-           style="font-size:18.6667px">Finish</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-205.14441"
-         y="-513.11621"
-         id="use3686"
-         inkscape:label="yellow finish txt"
-         transform="rotate(135)"
-         inkscape:transform-center-x="157.95168"
-         inkscape:transform-center-y="-95.172876"
-         inkscape:tile-x0="217.27509"
-         inkscape:tile-y0="282.05268"><tspan
-           sodipodi:role="line"
-           id="tspan3696"
-           x="-205.14441"
-           y="-513.11621"
-           style="font-size:18.6667px">Finish</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-770.85114"
-         y="50.06913"
-         id="use3688"
-         inkscape:label="red finish txt"
-         transform="rotate(-135)"
-         inkscape:transform-center-x="157.95168"
-         inkscape:transform-center-y="-95.172876"
-         inkscape:tile-x0="217.27509"
-         inkscape:tile-y0="282.05268"><tspan
-           sodipodi:role="line"
-           id="tspan3700"
-           x="-770.85114"
-           y="50.06913"
-           style="font-size:18.6667px">Finish</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-207.66577"
-         y="615.77588"
-         id="use3690"
-         inkscape:label="green finish txt"
-         transform="rotate(-45)"
-         inkscape:transform-center-x="157.95168"
-         inkscape:transform-center-y="-95.172876"
-         inkscape:tile-x0="217.27509"
-         inkscape:tile-y0="282.05268"><tspan
-           sodipodi:role="line"
-           id="tspan3704"
-           x="-207.66577"
-           y="615.77588"
-           style="font-size:18.6667px">Finish</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="482.87833"
-         y="279.75162"
-         id="use3726"
-         inkscape:label="green start txt"
-         transform="rotate(45)"
-         inkscape:transform-center-x="233.11756"
-         inkscape:transform-center-y="162.61248"
-         inkscape:tile-x0="147.35234"
-         inkscape:tile-y0="540.45534"><tspan
-           sodipodi:role="line"
-           id="tspan3734"
-           x="482.87833"
-           y="279.75162"
-           style="font-size:18.6667px">Start</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-79.140892"
-         y="-284.98907"
-         id="use3728"
-         inkscape:label="blue start txt"
-         transform="rotate(135)"
-         inkscape:transform-center-x="233.11756"
-         inkscape:transform-center-y="162.61248"
-         inkscape:tile-x0="147.35234"
-         inkscape:tile-y0="540.45534"><tspan
-           sodipodi:role="line"
-           id="tspan3738"
-           x="-79.140892"
-           y="-284.98907"
-           style="font-size:18.6667px">Start</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-644.03284"
-         y="278.23462"
-         id="use3730"
-         inkscape:label="yellow start txt"
-         transform="rotate(-135)"
-         inkscape:transform-center-x="233.11756"
-         inkscape:transform-center-y="162.61248"
-         inkscape:tile-x0="147.35234"
-         inkscape:tile-y0="540.45534"><tspan
-           sodipodi:role="line"
-           id="tspan3742"
-           x="-644.03284"
-           y="278.23462"
-           style="font-size:18.6667px">Start</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="-76.263458"
-         y="845.65198"
-         id="use3732"
-         inkscape:label="red start txt"
-         transform="rotate(-45)"
-         inkscape:transform-center-x="233.11756"
-         inkscape:transform-center-y="162.61248"
-         inkscape:tile-x0="147.35234"
-         inkscape:tile-y0="540.45534"><tspan
-           sodipodi:role="line"
-           id="tspan3746"
-           x="-76.263458"
-           y="845.65198"
-           style="font-size:18.6667px">Start</tspan></text>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="800px" height="800px" version="1.1" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata26">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect36" x="50" y="50" width="700" height="700" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <circle id="path912-2" cx="400" cy="400" r="314.03" fill="none" opacity=".998" stroke="#d0e0f2" stroke-width="50"/>
+  <g id="layer4">
+   <path id="use3600" d="m468.39 329.94 114.1-114.1 12.189-63.947" fill="none" stroke="#f2c94c" stroke-linecap="round" stroke-linejoin="round" stroke-width="60"/>
+   <path id="use3598" d="m329.94 329.94-114.1-114.1-63.947-12.189" fill="none" stroke="#2f80ed" stroke-linecap="round" stroke-linejoin="round" stroke-width="60"/>
+   <path id="use3596" d="m329.94 468.39-114.1 114.1-12.189 63.947" fill="none" stroke="#27ae60" stroke-linecap="round" stroke-linejoin="round" stroke-width="60"/>
+   <path id="use3594" d="m468.39 468.39 114.1 114.1 63.947 12.189" fill="none" stroke="#eb5757" stroke-linecap="round" stroke-linejoin="round" stroke-width="60"/>
+   <path id="use3317" d="m604.77 718.24 114.1-114.1" fill="none" stroke="#eb5757" stroke-linecap="round" stroke-width="60"/>
+   <path id="use3315" d="m718.27 194.62-114.1-114.1" fill="none" stroke="#f2c94c" stroke-linecap="round" stroke-width="60"/>
+   <path id="use3313" d="m194.65 81.131-114.1 114.1" fill="none" stroke="#2f80ed" stroke-linecap="round" stroke-width="60"/>
+   <path id="use3311" d="m81.158 604.75 114.1 114.1" fill="none" stroke="#27ae60" stroke-linecap="round" stroke-width="60"/>
+   <circle id="use3752" cx="155" cy="595.81" r="30" fill="#27ae60" opacity=".998"/>
+   <circle id="use3754" transform="rotate(90)" cx="154.38" cy="-203.57" r="30" fill="#2f80ed" opacity=".998"/>
+   <circle id="use3756" transform="scale(-1)" cx="-645" cy="-202.96" r="30" fill="#f2c94c" opacity=".998"/>
+   <circle id="use3758" transform="rotate(-90)" cx="-644.38" cy="596.42" r="30" fill="#eb5757" opacity=".998"/>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="spaces">
-    <g
-       id="g2226"
-       inkscape:label="guides"
-       style="display:none">
-      <path
-         id="path912"
-         style="opacity:0.998;fill:none;stroke:#b3b3b3;stroke-width:2.51224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 714.0296,400 A 314.0296,314.0296 0 0 1 400,714.0296 314.0296,314.0296 0 0 1 85.970398,400 314.0296,314.0296 0 0 1 400,85.970398 314.0296,314.0296 0 0 1 714.0296,400 Z" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 400,85.970398 V 714.0296"
-         id="path2219" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 714.0296,400 H 85.970398"
-         id="path2221"
-         sodipodi:insensitive="true" />
-    </g>
-    <g
-       id="space0"
-       inkscape:label="space0"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2910"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2912"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2914"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space1"
-       inkscape:label="space1"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(12.857,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2694"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2696"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2698"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space2"
-       inkscape:label="space2"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(25.714,400.25611,399.28571)"
-       sodipodi:insensitive="true">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2702"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2704"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2706"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space3"
-       inkscape:label="space3"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(38.571,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2710"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2712"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2714"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space4"
-       inkscape:label="space4"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(51.428,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2718"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2720"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2722"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space5"
-       inkscape:label="space5"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(64.285,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2726"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2728"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2730"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space6"
-       inkscape:label="space6"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(77.142,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2734"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2736"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2738"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space7"
-       inkscape:label="space7"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(89.999,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2742"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2744"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2746"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space8"
-       inkscape:label="space8"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(102.856,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2750"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2752"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2754"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space9"
-       inkscape:label="space9"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(115.713,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2758"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:inline;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2760"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2762"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space10"
-       inkscape:label="space10"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(128.57,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2766"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2768"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2770"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space11"
-       inkscape:label="space11"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(141.427,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2774"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2776"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:inline;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2778"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space12"
-       inkscape:label="space12"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(154.284,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2782"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2784"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2786"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space13"
-       inkscape:label="space13"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(167.141,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2790"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2792"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2794"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space14"
-       inkscape:label="space14"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(179.998,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2798"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2800"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2802"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space15"
-       inkscape:label="space15"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-167.145,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2806"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2808"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2810"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space16"
-       inkscape:label="space16"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-154.288,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2814"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2816"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2818"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space17"
-       inkscape:label="space17"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-141.431,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2822"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2824"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2826"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space18"
-       inkscape:label="space18"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-128.574,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2830"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2832"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2834"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space19"
-       inkscape:label="space19"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-115.717,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2838"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2840"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2842"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space20"
-       inkscape:label="space20"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-102.86,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2846"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2848"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2850"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space21"
-       inkscape:label="space21"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-90.003,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2854"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2856"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2858"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space22"
-       inkscape:label="space22"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-77.146,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2862"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2864"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2866"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space23"
-       inkscape:label="space23"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-64.289,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2870"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2872"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2874"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space24"
-       inkscape:label="space24"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-51.432,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2878"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2880"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2882"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space25"
-       inkscape:label="space25"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-38.575,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2886"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2888"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2890"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space26"
-       inkscape:label="space26"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-25.718,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2894"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2896"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2898"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="space27"
-       inkscape:label="space27"
-       inkscape:transform-center-x="314.28571"
-       inkscape:transform-center-y="0.71428572"
-       inkscape:tile-x0="63.470397"
-       inkscape:tile-y0="377.49999"
-       transform="rotate(-12.861,400.25611,399.28571)">
-      <circle
-         style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2902"
-         cx="85.970398"
-         cy="400"
-         r="12.631578"
-         inkscape:label="unoccupied_ring"
-         class="unoccupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2904"
-         cx="85.970398"
-         cy="400"
-         rx="14.210538"
-         ry="14.210559"
-         inkscape:label="occupied_ring"
-         class="occupied_ring" />
-      <ellipse
-         style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse2906"
-         cx="85.970398"
-         cy="400"
-         rx="19.133862"
-         ry="19.13386"
-         inkscape:label="suggestion_ring"
-         class="suggestion_ring" />
-    </g>
-    <g
-       id="use3157"
-       transform="rotate(180,205.2101,465.6807)"
-       inkscape:label="blue finish"
-       inkscape:transform-center-x="126.26906"
-       inkscape:transform-center-y="-126.26905"
-       inkscape:tile-x0="193.36904"
-       inkscape:tile-y0="193.36907">
-      <g
-         id="space47"
-         inkscape:label="space47"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3165"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3167"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3169"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space46"
-         inkscape:label="space46"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3173"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3175"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3177"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space45"
-         inkscape:label="space45"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3181"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3183"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3185"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space44"
-         inkscape:label="space44"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3189"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3191"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3193"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3159"
-       transform="rotate(-90,138.69401,271.7262)"
-       inkscape:label="yellow finish"
-       inkscape:transform-center-x="126.26906"
-       inkscape:transform-center-y="-126.26905"
-       inkscape:tile-x0="193.36904"
-       inkscape:tile-y0="193.36907">
-      <g
-         id="space51"
-         inkscape:label="space51"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3199"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3201"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3203"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space50"
-         inkscape:label="space50"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3207"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3209"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3211"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space49"
-         inkscape:label="space49"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3215"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3217"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:inline;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3219"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="g3768"
-         inkscape:label="space48"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3223"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3225"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3227"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3161"
-       transform="translate(387.909,-133.03218)"
-       inkscape:label="red finish"
-       inkscape:transform-center-x="126.26906"
-       inkscape:transform-center-y="-126.26905"
-       inkscape:tile-x0="193.36904"
-       inkscape:tile-y0="193.36907">
-      <g
-         id="space55"
-         inkscape:label="space55"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3233"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3235"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3237"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space54"
-         inkscape:label="space54"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3241"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3243"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3245"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space53"
-         inkscape:label="space53"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3249"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3251"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3253"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space52"
-         inkscape:label="space52"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3257"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3259"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3261"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3163"
-       transform="rotate(90,271.72619,659.6352)"
-       inkscape:label="green finish"
-       inkscape:transform-center-x="126.26906"
-       inkscape:transform-center-y="-126.26905"
-       inkscape:tile-x0="193.36904"
-       inkscape:tile-y0="193.36907">
-      <g
-         id="space59"
-         inkscape:label="space59"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3267"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3269"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3271"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space58"
-         inkscape:label="space58"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3275"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3277"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3279"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space57"
-         inkscape:label="space57"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3283"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3285"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3287"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space56"
-         inkscape:label="space56"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3291"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3293"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3295"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3303"
-       transform="translate(0.68078306,3.3287164)"
-       inkscape:label="green home"
-       inkscape:transform-center-x="261.50695"
-       inkscape:transform-center-y="262.1092"
-       inkscape:tile-x0="58.678951"
-       inkscape:tile-y0="582.26806">
-      <g
-         id="space43"
-         inkscape:label="space43"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3529"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3531"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3533"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space42"
-         inkscape:label="space42"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3537"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3539"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3541"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space41"
-         inkscape:label="space41"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3545"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3547"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3549"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space40"
-         inkscape:label="space40"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3553"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3555"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3557"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3305"
-       transform="rotate(90,397.70764,398.36138)"
-       inkscape:label="blue home"
-       inkscape:transform-center-x="261.50695"
-       inkscape:transform-center-y="262.1092"
-       inkscape:tile-x0="58.678951"
-       inkscape:tile-y0="582.26806">
-      <g
-         id="space31"
-         inkscape:label="space31"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3495"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3497"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3499"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space30"
-         inkscape:label="space30"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3503"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3505"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3507"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space29"
-         inkscape:label="space29"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3511"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3513"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3515"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space28"
-         inkscape:label="space28"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3519"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3521"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3523"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3307"
-       transform="rotate(180,399.372,398.02099)"
-       inkscape:label=" yellow home"
-       inkscape:transform-center-x="261.50695"
-       inkscape:transform-center-y="262.1092"
-       inkscape:tile-x0="58.678951"
-       inkscape:tile-y0="582.26806">
-      <g
-         id="space35"
-         inkscape:label="space35"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3461"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3463"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3465"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space34"
-         inkscape:label="space34"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3469"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3471"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3473"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space33"
-         inkscape:label="space33"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3477"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3479"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3481"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space32"
-         inkscape:label="space32"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3485"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3487"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3489"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
-    <g
-       id="use3309"
-       transform="rotate(-90,401.03636,397.6806)"
-       inkscape:label="red home"
-       inkscape:transform-center-x="261.50695"
-       inkscape:transform-center-y="262.1092"
-       inkscape:tile-x0="58.678951"
-       inkscape:tile-y0="582.26806">
-      <g
-         id="space39"
-         inkscape:label="space39"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-159.90956,494.078)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3427"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3429"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3431"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space38"
-         inkscape:label="space38"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-186.80208,559.00227)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3435"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3437"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3439"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space37"
-         inkscape:label="space37"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-213.6946,623.92656)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3443"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3445"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3447"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-      <g
-         id="space36"
-         inkscape:label="space36"
-         inkscape:transform-center-x="314.28571"
-         inkscape:transform-center-y="0.71428572"
-         inkscape:tile-x0="63.470397"
-         inkscape:tile-y0="377.49999"
-         transform="rotate(45,-240.58711,688.85084)">
-        <circle
-           style="opacity:0.998;fill:none;stroke:#000000;stroke-width:14.7368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle3451"
-           cx="85.970398"
-           cy="400"
-           r="12.631578"
-           inkscape:label="unoccupied_ring"
-           class="unoccupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#ffff00;stroke-width:16.5789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3453"
-           cx="85.970398"
-           cy="400"
-           rx="14.210538"
-           ry="14.210559"
-           inkscape:label="occupied_ring"
-           class="occupied_ring" />
-        <ellipse
-           style="display:none;opacity:0.998;fill:none;stroke:#808000;stroke-width:6.73228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse3455"
-           cx="85.970398"
-           cy="400"
-           rx="19.133862"
-           ry="19.13386"
-           inkscape:label="suggestion_ring"
-           class="suggestion_ring" />
-      </g>
-    </g>
+  <g id="layer5" fill="#000000" font-family="sans-serif" font-size="40px">
+   <text id="use3626" transform="rotate(45)" x="537.79474" y="424.8432" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3634" x="537.79474" y="424.8432" font-size="18.667px">Home</tspan></text>
+   <text id="use3628" transform="rotate(135)" x="-26.732204" y="-141.04245" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3638" x="-26.732204" y="-141.04245" font-size="18.667px">Home</tspan></text>
+   <text id="use3630" transform="rotate(225)" x="-592.61786" y="423.4845" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3642" x="-592.61786" y="423.4845" font-size="18.667px">Home</tspan></text>
+   <text id="use3632" transform="rotate(-45)" x="-28.09091" y="989.37012" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3646" x="-28.09091" y="989.37012" font-size="18.667px">Home</tspan></text>
+   <text id="use3684" transform="rotate(45)" x="358.04095" y="52.590488" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3692" x="358.04095" y="52.590488" font-size="18.667px">Finish</tspan></text>
+   <text id="use3686" transform="rotate(135)" x="-205.14441" y="-513.11621" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3696" x="-205.14441" y="-513.11621" font-size="18.667px">Finish</tspan></text>
+   <text id="use3688" transform="rotate(225)" x="-770.85114" y="50.06913" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3700" x="-770.85114" y="50.06913" font-size="18.667px">Finish</tspan></text>
+   <text id="use3690" transform="rotate(-45)" x="-207.66577" y="615.77588" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3704" x="-207.66577" y="615.77588" font-size="18.667px">Finish</tspan></text>
+   <text id="use3726" transform="rotate(45)" x="482.87833" y="279.75162" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3734" x="482.87833" y="279.75162" font-size="18.667px">Start</tspan></text>
+   <text id="use3728" transform="rotate(135)" x="-79.140892" y="-284.98907" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3738" x="-79.140892" y="-284.98907" font-size="18.667px">Start</tspan></text>
+   <text id="use3730" transform="rotate(225)" x="-644.03284" y="278.23462" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3742" x="-644.03284" y="278.23462" font-size="18.667px">Start</tspan></text>
+   <text id="use3732" transform="rotate(-45)" x="-76.263458" y="845.65198" style="line-height:1.25" xml:space="preserve"><tspan id="tspan3746" x="-76.263458" y="845.65198" font-size="18.667px">Start</tspan></text>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="popper"
-     style="display:inline">
-    <g
-       id="g925"
-       inkscape:label="popper"
-       transform="matrix(0.46240742,0.46240742,-0.46240742,0.46240742,400.00001,30.074062)">
-      <rect
-         style="opacity:0.998;fill:#000000;stroke:none;stroke-width:1.84941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect862"
-         width="198.15059"
-         height="198.15059"
-         x="300.92471"
-         y="300.92471" />
-      <circle
-         style="opacity:0.998;fill:#f2f2f2;stroke:none;stroke-width:0.967744;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path864"
-         cx="400"
-         cy="400"
-         r="75" />
-      <rect
-         style="opacity:0.998;fill:#f2f2f2;stroke:#cccccc;stroke-width:1.77103;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect882"
-         width="48.228966"
-         height="48.22897"
-         x="369.60135"
-         y="360.50995" />
-      <g
-         id="g910"
-         transform="translate(0.61792868,-0.06900334)"
-         inkscape:label="die">
-        <circle
-           style="opacity:0.998;fill:#000000;stroke:none;stroke-width:1.25993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path884"
-           cx="549.94427"
-           cy="-8.1222486"
-           r="7"
-           transform="rotate(47.318871)" />
-        <circle
-           style="opacity:0.998;fill:#000000;stroke:none;stroke-width:1.25993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path884-3"
-           cx="549.29071"
-           cy="-28.190695"
-           r="7"
-           transform="rotate(47.318871)" />
-        <circle
-           style="opacity:0.998;fill:#000000;stroke:none;stroke-width:1.25993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path884-36"
-           cx="548.63715"
-           cy="-48.259209"
-           r="7"
-           transform="rotate(47.318871)" />
-      </g>
-    </g>
+ </g>
+ <g id="layer3" fill="none">
+  <g id="g2226" display="none">
+   <path id="path912" d="m714.03 400c0 173.43-140.6 314.03-314.03 314.03s-314.03-140.6-314.03-314.03c0-51.799 12.542-100.67 34.754-143.74 52.159-101.14 157.64-170.29 279.28-170.29 173.43 1e-6 314.03 140.6 314.03 314.03z" opacity=".998" stroke="#b3b3b3" stroke-width="2.5122"/>
+   <path id="path2219" d="m400 85.97v628.06" stroke="#000" stroke-width="1px"/>
+   <path id="path2221" d="m714.03 400h-628.06" stroke="#000" stroke-width="1px"/>
   </g>
+  <g id="space0">
+   <circle id="circle2910" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2912" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2914" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space1" transform="rotate(12.857 400.26 399.29)">
+   <circle id="circle2694" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2696" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2698" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space2" transform="rotate(25.714 400.26 399.29)">
+   <circle id="circle2702" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2704" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2706" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space3" transform="rotate(38.571 400.26 399.29)">
+   <circle id="circle2710" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2712" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2714" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space4" transform="rotate(51.428 400.26 399.29)">
+   <circle id="circle2718" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2720" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2722" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space5" transform="rotate(64.285 400.26 399.29)">
+   <circle id="circle2726" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2728" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2730" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space6" transform="rotate(77.142 400.26 399.29)">
+   <circle id="circle2734" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2736" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2738" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space7" transform="rotate(89.999 400.26 399.29)">
+   <circle id="circle2742" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2744" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2746" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space8" transform="rotate(102.86 400.26 399.29)">
+   <circle id="circle2750" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2752" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2754" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space9" transform="rotate(115.71 400.26 399.29)">
+   <circle id="circle2758" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2760" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2762" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space10" transform="rotate(128.57 400.26 399.29)">
+   <circle id="circle2766" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2768" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2770" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space11" transform="rotate(141.43 400.26 399.29)">
+   <circle id="circle2774" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2776" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2778" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ffc107" stroke-width="6.7323"/>
+  </g>
+  <g id="space12" transform="rotate(154.28 400.26 399.29)">
+   <circle id="circle2782" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2784" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2786" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space13" transform="rotate(167.14 400.26 399.29)">
+   <circle id="circle2790" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2792" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2794" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space14" transform="rotate(180 400.26 399.29)">
+   <circle id="circle2798" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2800" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2802" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space15" transform="rotate(192.86 400.26 399.29)">
+   <circle id="circle2806" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2808" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2810" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space16" transform="rotate(205.71 400.26 399.29)">
+   <circle id="circle2814" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2816" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2818" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space17" transform="rotate(218.57 400.26 399.29)">
+   <circle id="circle2822" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2824" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2826" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space18" transform="rotate(231.43 400.26 399.29)">
+   <circle id="circle2830" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2832" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2834" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space19" transform="rotate(244.28 400.26 399.29)">
+   <circle id="circle2838" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2840" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2842" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space20" transform="rotate(257.14 400.26 399.29)">
+   <circle id="circle2846" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2848" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2850" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space21" transform="rotate(270 400.26 399.29)">
+   <circle id="circle2854" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2856" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2858" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space22" transform="rotate(-77.146 400.26 399.29)">
+   <circle id="circle2862" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2864" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2866" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space23" transform="rotate(-64.289 400.26 399.29)">
+   <circle id="circle2870" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2872" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2874" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space24" transform="rotate(-51.432 400.26 399.29)">
+   <circle id="circle2878" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2880" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2882" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space25" transform="rotate(-38.575 400.26 399.29)">
+   <circle id="circle2886" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2888" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2890" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space26" transform="rotate(-25.718 400.26 399.29)">
+   <circle id="circle2894" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2896" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2898" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="space27" transform="rotate(-12.861 400.26 399.29)">
+   <circle id="circle2902" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+   <ellipse id="ellipse2904" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+   <ellipse id="ellipse2906" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+  </g>
+  <g id="use3157" transform="rotate(180 205.21 465.68)">
+   <g id="space47" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3165" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3167" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3169" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space46" transform="rotate(45 -186.8 559)">
+    <circle id="circle3173" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3175" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3177" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space45" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3181" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3183" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3185" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space44" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3189" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3191" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3193" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3159" transform="rotate(-90 138.69 271.73)">
+   <g id="space51" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3199" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3201" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3203" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space50" transform="rotate(45 -186.8 559)">
+    <circle id="circle3207" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3209" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3211" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space49" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3215" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3217" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3219" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ffc107" stroke-width="6.7323"/>
+   </g>
+   <g id="g3768" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3223" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3225" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3227" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3161" transform="translate(387.91 -133.03)">
+   <g id="space55" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3233" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3235" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3237" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space54" transform="rotate(45 -186.8 559)">
+    <circle id="circle3241" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3243" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3245" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space53" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3249" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3251" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3253" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space52" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3257" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3259" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3261" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3163" transform="rotate(90 271.73 659.64)">
+   <g id="space59" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3267" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3269" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3271" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space58" transform="rotate(45 -186.8 559)">
+    <circle id="circle3275" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3277" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3279" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space57" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3283" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3285" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3287" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space56" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3291" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3293" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3295" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3303" transform="translate(.68078 3.3287)">
+   <g id="space43" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3529" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3531" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3533" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space42" transform="rotate(45 -186.8 559)">
+    <circle id="circle3537" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3539" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3541" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space41" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3545" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3547" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3549" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space40" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3553" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3555" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3557" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3305" transform="rotate(90 397.71 398.36)">
+   <g id="space31" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3495" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3497" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3499" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space30" transform="rotate(45 -186.8 559)">
+    <circle id="circle3503" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3505" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3507" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space29" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3511" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3513" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3515" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space28" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3519" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3521" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3523" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3307" transform="rotate(180 399.37 398.02)">
+   <g id="space35" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3461" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3463" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3465" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space34" transform="rotate(45 -186.8 559)">
+    <circle id="circle3469" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3471" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3473" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space33" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3477" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3479" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3481" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space32" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3485" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3487" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3489" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+  <g id="use3309" transform="rotate(-90 401.04 397.68)">
+   <g id="space39" transform="rotate(45 -159.91 494.08)">
+    <circle id="circle3427" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3429" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3431" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space38" transform="rotate(45 -186.8 559)">
+    <circle id="circle3435" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3437" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3439" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space37" transform="rotate(45 -213.69 623.93)">
+    <circle id="circle3443" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3445" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3447" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+   <g id="space36" transform="rotate(45 -240.59 688.85)">
+    <circle id="circle3451" class="unoccupied_ring" cx="85.97" cy="400" r="12.632" opacity=".998" stroke="#000" stroke-width="14.737"/>
+    <ellipse id="ellipse3453" class="occupied_ring" cx="85.97" cy="400" rx="14.211" ry="14.211" display="none" opacity=".998" stroke="#fffc7d" stroke-width="16.579"/>
+    <ellipse id="ellipse3455" class="suggestion_ring" cx="85.97" cy="400" rx="19.134" ry="19.134" display="none" opacity=".998" stroke="#ff9800" stroke-width="6.7323"/>
+   </g>
+  </g>
+ </g>
+ <g id="layer2">
+  <g id="g925" transform="matrix(.46241 .46241 -.46241 .46241 400 30.074)">
+   <rect id="rect862" x="300.92" y="300.92" width="198.15" height="198.15" opacity=".998"/>
+   <circle id="path864" cx="400" cy="400" r="75" fill="#f2f2f2" opacity=".998"/>
+   <rect id="rect882" x="369.6" y="360.51" width="48.229" height="48.229" fill="#f2f2f2" opacity=".998" stroke="#ccc" stroke-width="1.771"/>
+   <g id="g910" transform="translate(.61793 -.069003)">
+    <circle id="path884" transform="rotate(47.319)" cx="549.94" cy="-8.1222" r="7" opacity=".998"/>
+    <circle id="path884-3" transform="rotate(47.319)" cx="549.29" cy="-28.191" r="7" opacity=".998"/>
+    <circle id="path884-36" transform="rotate(47.319)" cx="548.64" cy="-48.259" r="7" opacity=".998"/>
+   </g>
+  </g>
+ </g>
 </svg>
